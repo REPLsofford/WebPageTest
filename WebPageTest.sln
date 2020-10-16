@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPageTest", "WebPageTest\WebPageTest.csproj", "{9CC36ED4-7DB7-45D4-ABAC-CE90A68B78B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPageTest.Droid", "Droid\WebPageTest.Droid.csproj", "{ABB3B363-C781-47E2-B45E-B41AE0C2A68F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CC36ED4-7DB7-45D4-ABAC-CE90A68B78B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC36ED4-7DB7-45D4-ABAC-CE90A68B78B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC36ED4-7DB7-45D4-ABAC-CE90A68B78B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC36ED4-7DB7-45D4-ABAC-CE90A68B78B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB3B363-C781-47E2-B45E-B41AE0C2A68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB3B363-C781-47E2-B45E-B41AE0C2A68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB3B363-C781-47E2-B45E-B41AE0C2A68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB3B363-C781-47E2-B45E-B41AE0C2A68F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
